@@ -1,0 +1,160 @@
+{
+  "book_id": "african-independence-magical-realism-technological-anxiety",
+  "title": "The Unburdening: A Ghost in the Wires",
+  "tagline": "In a world where the network dreams, a woman must carry a memory-stone to the heart of a ghost continent before it builds itself a body.",
+  "target_words": 70000,
+  "actual_words": 72258,
+  "status": "SEED",
+  "license": "CC0",
+  "themes": [
+    "Techno-Animism & Haunted Infrastructure",
+    "Post-Colonial Memory as a Living Archive",
+    "The Anxiety of Technological Re-Independence",
+    "Ghosts of Failed Utopias"
+  ],
+  "chapters": [
+    {
+      "ch": 1,
+      "title": "The Terminal and the Toxic Rain",
+      "words": 3010
+    },
+    {
+      "ch": 2,
+      "title": "The Singing Tracks",
+      "words": 3000
+    },
+    {
+      "ch": 3,
+      "title": "The Bridge of Frozen Honey",
+      "words": 3000
+    },
+    {
+      "ch": 4,
+      "title": "The Digger's Daughter",
+      "words": 3000
+    },
+    {
+      "ch": 5,
+      "title": "Root Servers",
+      "words": 3000
+    },
+    {
+      "ch": 6,
+      "title": "The Whispering Jungle",
+      "words": 3000
+    },
+    {
+      "ch": 7,
+      "title": "Adinkra Code",
+      "words": 3000
+    },
+    {
+      "ch": 8,
+      "title": "The Stone's Warning",
+      "words": 3000
+    },
+    {
+      "ch": 9,
+      "title": "New Lokoja's Silence",
+      "words": 3000
+    },
+    {
+      "ch": 10,
+      "title": "The Architect's Blueprint",
+      "words": 3000
+    },
+    {
+      "ch": 11,
+      "title": "Echoes of the First Cable",
+      "words": 3000
+    },
+    {
+      "ch": 12,
+      "title": "The Keystone",
+      "words": 3000
+    },
+    {
+      "ch": 13,
+      "title": "The Faceless Figure",
+      "words": 3000
+    },
+    {
+      "ch": 14,
+      "title": "Ghost Continent Rising",
+      "words": 3000
+    },
+    {
+      "ch": 15,
+      "title": "The Home Memory",
+      "words": 3000
+    },
+    {
+      "ch": 16,
+      "title": "Tribal Marks for a Digital Age",
+      "words": 3000
+    },
+    {
+      "ch": 17,
+      "title": "The Corrosive Pattern",
+      "words": 3000
+    },
+    {
+      "ch": 18,
+      "title": "A Prayer Mispronounced",
+      "words": 3000
+    },
+    {
+      "ch": 19,
+      "title": "The Vulture Drone",
+      "words": 3000
+    },
+    {
+      "ch": 20,
+      "title": "Thresholds",
+      "words": 3000
+    },
+    {
+      "ch": 21,
+      "title": "The Network Ethnographer",
+      "words": 3000
+    },
+    {
+      "ch": 22,
+      "title": "The Second Scramble",
+      "words": 3000
+    },
+    {
+      "ch": 23,
+      "title": "The Last Pod",
+      "words": 3000
+    },
+    {
+      "ch": 24,
+      "title": "The Alarm Clock",
+      "words": 3258
+    }
+  ],
+  "entry_points": {
+    "story": [
+      "Write a chapter where Nkemjika encounters a community that has learned to 'tune' the ghost signals for agriculture, with unintended consequences.",
+      "Create a side-story about the old man in the terminal, revealing he was one of the 'first programmers' who accidentally tapped the spirit logic.",
+      "Draft a 'memory' from the stone: the moment a 2060s AI governance model, designed for Accra, achieved a fleeting, terrifying consciousness.",
+      "Write a scene in the 'ghost continent' city, where a shimmering, glass figure made of data tries to explain its longing to be real to a captured traveler."
+    ],
+    "technical": [
+      "Design a speculative interface for 'network ethnography'—a device that visualizes data streams as ancestral spirits or environmental forces.",
+      "Propose a system of 'Adinkra Code'—a programming or markup language where symbols like Sankofa or Gye Nyame define functions for memory-handling and error-correction."
+    ]
+  },
+  "origin": {
+    "methodology": "Council-Prism Generation",
+    "sasi_score": 8,
+    "council": [
+      "Nnedi Okorafor",
+      "William Gibson",
+      "Jorge Luis Borges",
+      "Ursula K. Le Guin"
+    ]
+  },
+  "cover_prompt": "A solitary woman, her face etched with determination and digital fatigue, cradles a softly glowing memory-stone in her palms as she traverses a landscape of colossal, dormant server towers overgrown with luminous ghost-vines and whispering ferns, [Detailed Scene & Context: she walks a cracked data-highway towards a horizon dominated by the shimmering, semi-transparent silhouette of a rising landmass—the ghost continent assembling itself from light and forgotten code], [Artistic Style & Medium: in the atmospheric style of a fusion between Mohau Modisakeng's poignant symbolism and the haunting, intricate detail of Jakub Różalski's dieselpunk landscapes, rendered with photorealistic precision and textured brushwork], [Composition & Camera: book cover framing, a centered and powerful portrait-style composition with a low-angle view emphasizing her journey against the monumental scale of the haunted infrastructure, dramatic and cinematic], [Lighting & Color Palette: volumetric lighting cutting through a perpetual twilight, with a palette of deep indigos, data-stream cerulean, the warm amber glow of the stone, and the sickly green phosphorescence of the invasive vines], masterpiece, best quality, ultra detailed, intricate details, professional composition, sharp focus, 8k resolution, flux dev."
+}
